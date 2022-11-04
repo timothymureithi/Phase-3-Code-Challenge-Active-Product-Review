@@ -5,4 +5,5 @@ class CreateProducts < ActiveRecord::Migration[5.2]
       t.integer :price
     end
   end
+  
 end
